@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Square List App</string>
+    <string name="add_item_desc">Добавить новый квадрат</string>
+</resources>
